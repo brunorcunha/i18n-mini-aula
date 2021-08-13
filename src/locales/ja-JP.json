@@ -1,0 +1,13 @@
+{
+  "internacionalizacao": "国際化",
+  "internacionalizacaodesc": "頭字語「i18n」は英語の「国際化」に由来します。18は最初の「i」と最後の「n」の間の文字数です。",
+  "helloworld": "こんにちは、世界",
+  "ola": "こんにちは、{nome}卿",
+  "vars": "{0}, {1} - {2}",
+  "paciente": "忍耐強い | 忍耐",
+  "psicologo": "心理学者はいません | 心理学者 | {0}人の心理学者",
+  "termos1": "私は受け入れます",
+  "termos2": "サービス規約",
+  "aceito": "{0}に同意します",
+  "termosdeservico": "利用規約"
+}

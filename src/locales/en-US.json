@@ -1,0 +1,14 @@
+{
+  "internacionalizacao": "Internationalization",
+  "internacionalizacaodesc": "The acronym \"i18n\" comes from the English \"internationalization\", where 18 is the number of letters between the first \"i\" and the last \"n\".",
+  "helloworld": "hello world",
+  "ola": "Hello sir {nome}",
+  "vars": "{0}, {1} - {2}",
+  "paciente": "Patient | Patients",
+  "psicologo": "No psychologist | a psychologist | {0} psychologists",
+  "fallback": "Fallback em inglês",
+  "termos1": "I accept the",
+  "termos2": "Terms of Service",
+  "aceito": "I accept the {0}",
+  "termosdeservico": "Terms of Service"
+}

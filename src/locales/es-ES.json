@@ -1,0 +1,13 @@
+{
+  "internacionalizacao": "Internacionalización",
+  "internacionalizacaodesc": "El acrónimo \"i18n\" proviene del inglés \"internationalization\", donde 18 es el número de letras entre la primera \"i\" y la última \"n\".",
+  "helloworld": "hola mundo",
+  "ola": "hola señor {nome}",
+  "vars": "{0}, {1} - {2}",
+  "paciente": "Paciente | Pacientes",
+  "psicologo": "Sin psicólogo | Un psicólogo | {0} psicólogos",
+  "termos1": "Acepto las",
+  "termos2": "Condiciones de Uso",
+  "aceito": "Acepto las {0}",
+  "termosdeservico": "Condiciones de Uso"
+}

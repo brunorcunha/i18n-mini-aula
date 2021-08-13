@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6f9c87eb-00aa-4382-9a32-022a688d6139/deploy-status)](https://app.netlify.com/sites/internacionalizacao/deploys)
 
+https://internacionalizacao.netlify.app/
+
 ## Project setup
 ```
 npm install
